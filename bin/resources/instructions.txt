@@ -1,0 +1,22 @@
+
+
+
+
+
+Each player gets THREE pieces.
+1.
+Each turn, players can put one piece on the board in any open spot.
+2.
+After all three pieces are on the board, 
+a player must move one piece each turn.
+3.
+A piece may move along any line or curving edge 
+of the circle to the next empty spot.
+4.
+A piece may not jump other pieces nor move more than one spot.
+5.
+The first person to get 3 in a row wins.
+
+Note:
+You can get 3 in a row by either having 3 around the circle in a row or 
+by having a straight line of your color through the middle.
